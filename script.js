@@ -1,4 +1,4 @@
 function mostrarMensagem(){
-    document.getElementByLd("mensagem").innerHTML=
+    document.getElementById("mensagem").innerHTML =
     "Produzir é Importante, mas Preservar é Essencial para o Futuro!";
 }
